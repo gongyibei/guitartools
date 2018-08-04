@@ -96,7 +96,7 @@ class Chord(object):
     
 if __name__ == '__main__':            
     options = {
-            'OpenChords':0,
+            'OpenChords':1,
             'Barrechord':0,
             'inversion':0,
             'gap':4,
